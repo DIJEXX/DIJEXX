@@ -28,7 +28,7 @@
               alt=" Git "
             />
           </a>
-          <br />Git
+          <br /> Git 
         </td>
         <td align="center" width="96">
           <a href="#stack">
