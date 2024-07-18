@@ -1,7 +1,8 @@
 <div align="center">
 	<img src="welcome.gif" alt="welcome to my profile">
 </div>
-
+<br>
+</br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+technology+stack+🥪)](https://git.io/typing-svg)
       
 <table width="100%">
@@ -60,6 +61,17 @@
             />
           </a>
           <br />SQLite
+        </td>
+        <td align="center" width="96">
+          <a href="#stack">
+            <img
+              src="https://cdn.icon-icons.com/icons2/1508/PNG/512/mysqlworkbench_103806.png"
+              width="48"
+              height="48"
+              alt="MySQL"
+            />
+          </a>
+          <br />MySQL
         </td>
         <td align="center" width="96">
           <a href="#stack">
