@@ -22,10 +22,10 @@
         <td align="center" width="96">
           <a href="#stack">
             <img
-              src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"
+              src="https://cdn.icon-icons.com/icons2/2699/PNG/512/git_scm_logo_icon_170096.png"
               width="48"
               height="48"
-              alt="Git"
+              alt=" Git "
             />
           </a>
           <br />Git
