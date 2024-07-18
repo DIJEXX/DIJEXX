@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-### Мой стек технологий
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+technology+stack+🥪)](https://git.io/typing-svg)
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
