@@ -1,11 +1,6 @@
 <div align="center">
 	<img src="welcome.gif" alt="welcome to my profile">
-	<br>
-	<br>
 </div>
-
-
-<br />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+technology+stack+🥪)](https://git.io/typing-svg)
       
@@ -25,6 +20,17 @@
         <td align="center" width="96">
           <a href="#stack">
             <img
+              src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"
+              width="48"
+              height="48"
+              alt="Git"
+            />
+          </a>
+          <br />Git
+        </td>
+        <td align="center" width="96">
+          <a href="#stack">
+            <img
               src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"
               width="48"
               height="48"
@@ -33,6 +39,17 @@
           </a>
           <br />Django
         </td>
+        <td align="center" width="96">
+          <a href="#stack">
+            <img
+              src="https://cdn.icon-icons.com/icons2/3027/PNG/512/python_icon_188903.png"
+              width="48"
+              height="48"
+              alt="Python"
+            />
+          </a>
+          <br />Python
+        </td>  
         <td align="center" width="96">
           <a href="#stack">
             <img
