@@ -10,6 +10,17 @@
         <td align="center" width="96">
           <a href="#stack">
             <img
+              src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"
+              width="48"
+              height="48"
+              alt="docker"
+            />
+          </a>
+          <br />Docker
+        </td>
+        <td align="center" width="96">
+          <a href="#stack">
+            <img
               src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"
               width="48"
               height="48"
@@ -29,8 +40,6 @@
           </a>
           <br />SQLite
         </td>
-      </tr>
-      <tr>
         <td align="center" width="96">
           <a href="#stack">
             <img
@@ -64,23 +73,6 @@
           </a>
           <br />Nginx
         </td>
-        <td align="center" width="96">
-          <a href="#stack">
-            <img
-              src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"
-              width="48"
-              height="48"
-              alt="docker"
-            />
-          </a>
-          <br />Docker
-        </td>
-      </tr>
-      <tr>
-      </tr>
-</table>
-<table width="100%">
-      <tr>
 <!--         <td align="center" width="96">
           <a href="#stack">
             <img
@@ -103,8 +95,6 @@
           </a>
           <br />TypeScript
         </td> -->
-      </tr>
-      <tr>
         <td align="center" width="96">
           <a href="#stack">
             <img
