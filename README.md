@@ -161,7 +161,29 @@
             />
           </a>
           <br />Blender
-        </td>  
+        </td>
+        <td align="center" width="96">
+          <a href="#stack">
+            <img
+              src="https://cdn.icon-icons.com/icons2/233/PNG/512/Unity_26208.png"
+              width="48"
+              height="48"
+              alt="Unity"
+            />
+          </a>
+          <br />Unity
+        </td>
+        <td align="center" width="96">
+          <a href="#stack">
+            <img
+              src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unreal_Engine_icon-icons.com_56587.png"
+              width="48"
+              height="48"
+              alt="Unreal Engine"
+            />
+          </a>
+          <br />Unreal Engine
+        </td>
       </tr>
    </table>
 </div>
