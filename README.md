@@ -22,8 +22,8 @@
         <td align="center" width="96">
           <a href="#stack">
             <img
-              src="https://cdn.icon-icons.com/icons2/1381/PNG/512/git_93585.png"
-              width="48"
+              src="https://cdn.icon-icons.com/icons2/1565/PNG/512/3499798-blue-git-glossy-green_107629.png"
+              width="96"
               height="48"
               alt=" Git "
             />
