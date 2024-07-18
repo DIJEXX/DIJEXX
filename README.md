@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<img src="welcome.gif" alt="welcome to my profile">
 	<br>
 	<br>
 </div>
